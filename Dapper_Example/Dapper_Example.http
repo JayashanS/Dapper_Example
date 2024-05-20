@@ -1,0 +1,6 @@
+@Dapper_Example_HostAddress = http://localhost:5025
+
+GET {{Dapper_Example_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

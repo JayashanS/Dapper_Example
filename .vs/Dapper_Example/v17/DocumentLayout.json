@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|c:\\users\\int.himantha\\source\\repos\\dapper_example\\dapper_example\\repository\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|solutionrelative:dapper_example\\repository\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|c:\\users\\int.himantha\\source\\repos\\dapper_example\\dapper_example\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|solutionrelative:dapper_example\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|c:\\users\\int.himantha\\source\\repos\\dapper_example\\dapper_example\\contact\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|solutionrelative:dapper_example\\contact\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|c:\\users\\int.himantha\\source\\repos\\dapper_example\\dapper_example\\dto\\companycreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|solutionrelative:dapper_example\\dto\\companycreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|c:\\users\\int.himantha\\source\\repos\\dapper_example\\dapper_example\\dapper_example.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|solutionrelative:dapper_example\\dapper_example.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|c:\\users\\int.himantha\\source\\repos\\dapper_example\\dapper_example\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|solutionrelative:dapper_example\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|c:\\users\\int.himantha\\source\\repos\\dapper_example\\dapper_example\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|solutionrelative:dapper_example\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|c:\\users\\int.himantha\\source\\repos\\dapper_example\\dapper_example\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|solutionrelative:dapper_example\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|c:\\users\\int.himantha\\source\\repos\\dapper_example\\dapper_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|solutionrelative:dapper_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|c:\\users\\int.himantha\\source\\repos\\dapper_example\\dapper_example\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5B2F14-DB98-4769-8759-6CE7CE192629}|Dapper_Example\\Dapper_Example.csproj|solutionrelative:dapper_example\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "Dapper_Example\\Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\Entities\\Company.cs",
+              "RelativeToolTip": "Dapper_Example\\Entities\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:25:47.282Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\appsettings.json",
+              "RelativeDocumentMoniker": "Dapper_Example\\appsettings.json",
+              "ToolTip": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\appsettings.json",
+              "RelativeToolTip": "Dapper_Example\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T04:27:54.517Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyCreation.cs",
+              "DocumentMoniker": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\DTO\\CompanyCreation.cs",
+              "RelativeDocumentMoniker": "Dapper_Example\\DTO\\CompanyCreation.cs",
+              "ToolTip": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\DTO\\CompanyCreation.cs",
+              "RelativeToolTip": "Dapper_Example\\DTO\\CompanyCreation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:27:39.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "Dapper_Example\\Controllers\\CompaniesController.cs",
+              "ToolTip": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "Dapper_Example\\Controllers\\CompaniesController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAswC8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:40:06.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\Contact\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "Dapper_Example\\Contact\\ICompanyRepository.cs",
+              "ToolTip": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\Contact\\ICompanyRepository.cs",
+              "RelativeToolTip": "Dapper_Example\\Contact\\ICompanyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:02:09.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\Repository\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "Dapper_Example\\Repository\\CompanyRepository.cs",
+              "ToolTip": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\Repository\\CompanyRepository.cs",
+              "RelativeToolTip": "Dapper_Example\\Repository\\CompanyRepository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAIA4wD8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:03:11.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\Context\\DapperContext.cs",
+              "RelativeDocumentMoniker": "Dapper_Example\\Context\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\Context\\DapperContext.cs",
+              "RelativeToolTip": "Dapper_Example\\Context\\DapperContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:36:00.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dapper_Example.csproj",
+              "DocumentMoniker": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\Dapper_Example.csproj",
+              "RelativeDocumentMoniker": "Dapper_Example\\Dapper_Example.csproj",
+              "ToolTip": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\Dapper_Example.csproj",
+              "RelativeToolTip": "Dapper_Example\\Dapper_Example.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T04:32:23.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\Program.cs",
+              "RelativeDocumentMoniker": "Dapper_Example\\Program.cs",
+              "ToolTip": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\Program.cs",
+              "RelativeToolTip": "Dapper_Example\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:47:40.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Dapper_Example\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\INT.Himantha\\source\\repos\\Dapper_Example\\Dapper_Example\\Entities\\Employee.cs",
+              "RelativeToolTip": "Dapper_Example\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:22:41.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
